@@ -1,0 +1,18 @@
+Newman Cams
+
+Cam 1 has a 16mm radius base circle and lift figures are from a 9.525mm Radius follower
+凸轮1有一个16毫米半径的基圆，升力图来自9.525mm半径从动件。
+
+Cam 2 has a 16mm radius base circle and lift figures are from a flat follower. 
+凸轮2有一个16毫米半径的基础圆和升力数字是从一个平面从动件。
+
+
+Cam 3 has a 14mm radius base circle and lift figures are from a 9.525mm Radius follower.
+凸轮3有一个14毫米半径基圆和升力图形是从9.525mm半径从动件。
+
+Cam 4 has a 13mm radius base circle and lift figures are from a 9.525mm Radius follower.
+凸轮4有一个13毫米半径基圆和升力图形是从9.525mm半径从动件。
+
+
+Cam 5 has a 19mm radius base circle and lift figures are from a flat follower. 
+凸轮5有一个19毫米半径的基础圆和提升数字是从一个平面从动件。 
