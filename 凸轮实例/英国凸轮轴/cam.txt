@@ -1,0 +1,62 @@
+1.Cam Profile:      rmw250ex
+Base Circle Radius:  14.5mm
+Follower Radius:  9.525
+
+2.Cam Profile:      rmw250in
+Base Circle Radius:  15mm
+Follower Radius:  9.525
+
+3.Cam Profile:      RC264400H
+Base Circle Radius:  18.85mm
+Follower Radius:  FLAT
+
+4. Cam Profile:  FRSPH1EX
+Base Circle Radius:  17mm
+Follower Radius: FLAT
+
+5. FRSPH1IN 
+Cam Profile:   FRSPH1IN 
+Base Circle Radius:  17mm
+Follower Radius: FLAT
+Type:  ConVEX
+
+6.Cam Profile:  FORS260300
+Base Circle Radius:  15mm
+Follower Radius: FLAT
+Type:  ConVEX
+
+7.．FORK244
+BR:13.2MM
+RB:FLAT
+CONVEX
+
+9.KENTPUMP  (NO)
+BR:16MM
+RB:FLAT
+CONVEX
+
+10.642IN  (NO)
+BR:16.5MM
+RB:FLAT
+CONVEX
+
+11.BD15EX
+BR:19MM
+RB:FLAT
+CONVEX
+
+12.BD10EX  （BNO）
+BR:19MM
+RB:FLAT
+
+13. Cam Profile:      GRASS
+Base Circle Radius:  12.7mm
+Follower Radius:  FLAT
+
+14. Cam Profile:      RSI
+Base Circle Radius:  15mm
+Follower Radius:  9.525
+
+15. Cam Profile:     RSE
+Base Circle Radius:  14.5mm
+Follower Radius:  9.525
